@@ -32,4 +32,33 @@ The following Excel features were incorporated.
 7. Filters
 8. Dashboard
 
+---
+
+
+The below image shows that the raw data needs to be cleaned.
+![Raw_Data](https://github.com/soma-ramesh/Space-Mission-Analysis-using-Microsoft-Excel/assets/143477687/51a6924c-b340-44a7-807a-62260382724b)
+
+
+
+After cleaning and formatted the data, the data set looks like below image and its ready for analysis.
+![Cleaned and Formatted_Data](https://github.com/soma-ramesh/Space-Mission-Analysis-using-Microsoft-Excel/assets/143477687/7ff0978e-0409-4165-9452-2558a94867d0)
+
+
+
+
+![Space Missions by Top 5 Locations](https://github.com/soma-ramesh/Space-Mission-Analysis-using-Microsoft-Excel/assets/143477687/3795b499-f33f-4c59-9587-92530e7f8550)
+
+
+
+
+
+
+![Space Missions Status by Years](https://github.com/soma-ramesh/Space-Mission-Analysis-using-Microsoft-Excel/assets/143477687/f720be2f-ff0e-40e8-9bcf-e8d4c69c098c)
+
+
+![Space Mission Dashboard](https://github.com/soma-ramesh/Space-Mission-Analysis-using-Microsoft-Excel/assets/143477687/173014ea-12b0-4ad9-8562-983800e67bd2)
+
+
+
+
 
