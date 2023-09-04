@@ -55,8 +55,17 @@ After cleaning and formatted the data, the data set looks like below image and i
 
 ![Space Missions Status by Years](https://github.com/soma-ramesh/Space-Mission-Analysis-using-Microsoft-Excel/assets/143477687/f720be2f-ff0e-40e8-9bcf-e8d4c69c098c)
 
-
+SPACE MISSION ANALYSIS REPORT
 ![Space Mission Dashboard](https://github.com/soma-ramesh/Space-Mission-Analysis-using-Microsoft-Excel/assets/143477687/173014ea-12b0-4ad9-8562-983800e67bd2)
+
+---
+Key Insights:
+1. Out of 4630 Missions attempted,4162 Missions succeed with 90% of success rate.
+2. Russia has the most successful missions, ie. 1323 missions and it is followed by USA with 1298 missions.
+3. Max. missions done by "RVSN USSR" (Total of 1777) and followed by "CASC" (Total of 338) companies.
+4. Only in the year of 2021, there are 157 Space Missions launched and 143 Missions are successful.
+5. Cosmos-3M(Retired) Rocket was used for most space mission(446).
+6. NASA spent nearly 76.28k millions of US dollars for all their space missions.
 
 
 
