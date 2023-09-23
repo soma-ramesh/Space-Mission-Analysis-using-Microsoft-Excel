@@ -27,7 +27,7 @@ The following Excel features were incorporated.
 2. Data Format,
 3. Pivot Table
 4. Key Performance Indicator(KPI),
-5. Charts (Bar chart, Column chart, Donut Chart )
+5. Charts (Bar chart, Column chart, Doughnut Chart )
 6. Slicers
 7. Filters
 8. Dashboard
